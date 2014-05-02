@@ -1,0 +1,10 @@
+//127.0.0.1
+www.flying-saucers.com
+228.45.177.9
+news.bbc.co.uk
+chfc2-brig19-0-0-cust1.brig.cable.ntl.com
+
+
+To test it just delete one "/" leaving only "/127.0.0.1"
+If you add/delete records from this file the server needs to be rebooted
+for forbidden check to take an effect.
